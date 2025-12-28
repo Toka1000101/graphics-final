@@ -1,0 +1,23 @@
+{
+  "name": "final-toka1000101",
+  "version": "1.0.0",
+  "description": "Create a short movie.",
+  "homepage": "https://github.com/graphics-fall2025/final-Toka1000101#readme",
+  "bugs": {
+    "url": "https://github.com/graphics-fall2025/final-Toka1000101/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graphics-fall2025/final-Toka1000101.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vite": "^7.2.6"
+  }
+}
